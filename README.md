@@ -25,7 +25,7 @@ A fully interactive Rubik's Cube solver built using vanilla JavaScript, HTML, an
 
 ## 📂 Project Structure
 
-RubiksCubeSolver/
+RubiksCubeSolver/  
 ├── index.html       # Main UI and layout  
 ├── cube.js          # Cube logic, scramble/solve algorithms, rendering  
 └── README.md        # Project documentation
@@ -38,12 +38,12 @@ RubiksCubeSolver/
 ⦁	🧠 Object-Oriented Programming
 
 ## 📸 Screenshots
-![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/83a5fe758439192b6cf79e34f8a813b91ab3f236/Screenshot%20(2).png)
-![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/3769d2d58e6f5e8aacf5144541e73517ee41e58d/Screenshot%20(4).png)
+![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/83a5fe758439192b6cf79e34f8a813b91ab3f236/Screenshot%20(2).png)  
+![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/3769d2d58e6f5e8aacf5144541e73517ee41e58d/Screenshot%20(4).png)  
 ![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/e99284d2741f68fa3bf3d572f96d5ce055b5c905/Screenshot%20(5).png)
 
 ## 👤 Author
 
-Rajendraprasad H S
-📧 rajendrahs36@gmail.com
+Rajendraprasad H S  
+📧 rajendrahs36@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rajendraprasad-h-s-009773285
