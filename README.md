@@ -3,7 +3,7 @@ A fully interactive Rubik's Cube solver built using vanilla JavaScript, HTML, an
 
 🔗 Live Demo: https://rajendra1103.github.io/Rubik-s-cube-solver
 
-# ✨ Features
+## ✨ Features
 ⦁	🎲 Scramble Functionality – Randomizes the cube using valid moves
 ⦁	🧠 Solve Mode – Solves the cube using reverse logic of scramble steps
 ⦁	🖐️ Manual Rotation Controls – Rotate any face manually
@@ -14,7 +14,7 @@ A fully interactive Rubik's Cube solver built using vanilla JavaScript, HTML, an
 ⦁	🎨 Colorful, Responsive UI – Fixed top/bottom layout, gradient background
 ⦁	📦 Pure Frontend – No external libraries or frameworks used
 
-# 🚀 How to Use
+## 🚀 How to Use
 1.	Clone/download this repository.
 2.	Open index.html in any modern browser.
 3.	Use the top buttons to:
@@ -23,30 +23,26 @@ A fully interactive Rubik's Cube solver built using vanilla JavaScript, HTML, an
    - Reset to the original solved state
 4.	Use the bottom manual controls to rotate individual sides of the cube.
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 RubiksCubeSolver/
 ├── index.html       # Main UI and layout
 ├── cube.js          # Cube logic, scramble/solve algorithms, rendering
 └── README.md        # Project documentation
 
-# 🧱 Built With
+## 🧱 Built With
 
 ⦁	🧾 HTML5
 ⦁	🎨 CSS3
 ⦁	⚙️ Vanilla JavaScript (ES6+)
 ⦁	🧠 Object-Oriented Programming
 
-# 📸 Screenshots
+## 📸 Screenshots
 ![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/83a5fe758439192b6cf79e34f8a813b91ab3f236/Screenshot%20(2).png)
- 
- 
+![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/83a5fe758439192b6cf79e34f8a813b91ab3f236/Screenshot%20(2).png)
+![image alt](https://github.com/Rajendra1103/Rubik-s-cube-solver/blob/83a5fe758439192b6cf79e34f8a813b91ab3f236/Screenshot%20(2).png)
 
-
-
- 
-
-# 👤 Author
+## 👤 Author
 
 Rajendraprasad H S
 📧 rajendrahs36@gmail.com
